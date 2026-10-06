@@ -6,9 +6,9 @@ I am a Java Full Stack Developer with a strong foundation in Java, Spring Boot, 
 
 ### 🛠️ Technologies & Skills
 
-- **Languages:** Java, JavaScript, SQL
+- **Languages:** Java, Python, JavaScript, SQL
 - **Frontend:** HTML, CSS, Bootstrap, React JS, Tailwind CSS
-- **Backend:** Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs
+- **Backend:** Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs ,JWT Authentication
 - **Database:** MySQL, Oracle
 - **Testing:** JUnit, Unit Testing
 - **Tools:** Git, GitHub, Maven, Postman, Eclipse, VS Code, IntelliJ IDEA
