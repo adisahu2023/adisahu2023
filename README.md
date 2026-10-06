@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Sahu
 
-<!--
-**adisahu2023/adisahu2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Full Stack Developer
 
-Here are some ideas to get you started:
+I am a Java Full Stack Developer with a strong foundation in Java, Spring Boot, React JS, and MySQL. I enjoy building full-stack applications, RESTful APIs, and role-based systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Skills
+
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, Bootstrap, React JS, Tailwind CSS
+- **Backend:** Spring Boot, Spring Security, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs
+- **Database:** MySQL, Oracle
+- **Testing:** JUnit, Unit Testing
+- **Tools:** Git, GitHub, Maven, Postman, Eclipse, VS Code, IntelliJ IDEA
+- **Core Concepts:** OOP, DBMS, Data Structures, SDLC, Operating Systems
+
+### 📫 Connect With Me
+
+- **Email:** [adisahu2023@gmail.com](mailto\:adisahu2023@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/aditya-sahu-78185b287](https://www.linkedin.com/in/aditya-sahu-78185b287)
+- **GitHub:** [https://github.com/adisahu2023](https://github.com/adisahu2023)
+- **Portfolio:** [https://adisahu.site/](https://adisahu.site/)
+
+---
+
+⭐ Thanks for visiting my profile!
